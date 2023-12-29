@@ -5,4 +5,4 @@
 
 ## Third and last run main.py 
 
-![output](https://drive.google.com/file/d/1N6MQb5iSFalokDU3_Jn-evKicID2pCVV/view?usp=sharing)
+![output.png](https://drive.google.com/file/d/1N6MQb5iSFalokDU3_Jn-evKicID2pCVV/view?usp=sharing)
